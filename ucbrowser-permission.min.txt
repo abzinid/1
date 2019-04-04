@@ -1,0 +1,23 @@
+This application can access the following on your device:
+
+.Read phone status and identity.
+.Record audio.
+.Approximate (network-based) location precise (GPS) Location.
+.Modify or delete the contents of your USB storage.
+.Disable your screen lock.
+.Create accounts and set passwords, find accounts on the device.
+.Change network connectivity, connect and disconnect from wifi, 
+full network access, receive date from Internet. 
+view network connections, 
+view wifi connection.
+.Access Bluetooth settings, pair with Bluetooth devices.
+close other apps, retrieve running apps, run at startup.
+.Draw over other apps, prevent phone from sleeping.
+.Adjust your wallpaper size, set wallpaper.
+.Change your audio settings.
+.Read sync statistics, toggle sync on or off.
+.Expand/collapse status bar .
+.Delete all app cache data , install shortcuts, 
+measure app storage space,
+modify system settings, read Home settings and shortcuts, 
+test access to protected storage, uninstall shortcuts.
